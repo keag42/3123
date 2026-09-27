@@ -1,0 +1,20 @@
+{
+    "user1": {
+        "name": "Keagan Cameron",
+        "password": "pass1",
+        "profession": "student",
+        "id": 1
+    },
+    "user2": {
+        "name": "Alfred",
+        "password": "pass2",
+        "profession": "teacher",
+        "id": 2
+    },
+    "user3": {
+        "name:":"Caio",
+        "password": "pass3",
+        "profession": "fullstack engineer",
+        "id": 3
+    }
+}
