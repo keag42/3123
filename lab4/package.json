@@ -1,0 +1,24 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "tests": "echo 'Error no test specified'"
+  },
+  "keywords": ["ecpress", "GEt params vs query", "node vs nodemon", "static files"],
+  "author": "Keagan Cameron",
+  "license": "ISC",
+  "description": "running a webs server using express",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "morgan": "^1.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
